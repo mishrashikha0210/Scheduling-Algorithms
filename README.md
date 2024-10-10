@@ -14,7 +14,7 @@ An implementation of various CPU scheduling algorithms in C++. The algorithms in
     - [Aging](#aging)
   - [Installation](#installation)
   - [Input Format](#input-format)
-  - [Contributors](#contributors)
+    
 
 ## Algorithms
 
